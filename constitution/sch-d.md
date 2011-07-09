@@ -1,0 +1,2 @@
+# Schedule (D) — Residual Powers
+Residual powers shall be dealt with according to their nature. If the power pertains to a national matter, requires a national standard, or is a matter which cannot be regulated by a single state, it shall be exercised by the National Government. If the power pertains to a matter that is usually exercised by the state or local government, it shall be exercised by the state or local government.
