@@ -1,0 +1,46 @@
+{
+ "country": {
+  "code": "SS", "name": "South Sudan", "slug": "south-sudan", "lang": "en", "tz": "Africa/Juba",
+  "future_branch": "future",
+  "publisher": {"name": "Ministry of Justice and Constitutional Affairs (MoJCA), Republic of South Sudan", "email": "mojca@mojca.invalid"},
+  "default_in_force_rule": {
+   "text": "No general rule is applied. Each act here states its own commencement: the Penal Code Act 2008 (s. 1) and the Code of Criminal Procedure Act 2008 (s. 1) come into force on the date of the President's signature, given in the gazette's margin note; the Transitional Constitution 2011 (Art. 198) comes into force on July 9, 2011.",
+   "source": "https://mojca.gov.ss/laws-of-the-republic-of-south-sudan/"},
+  "licence_note": "© Copyright. Ministry of Justice and Constitutional Affairs (MoJCA). 2023. All Rights Reserved. (footer of mojca.gov.ss). Texts read from Internet Archive captures of mojca.gov.ss."
+ },
+ "sources": [
+  {"name": "Ministry of Justice and Constitutional Affairs (MoJCA): Laws of the Republic of South Sudan, read through Internet Archive captures",
+   "url": "https://mojca.gov.ss/laws-of-the-republic-of-south-sudan/", "retrieved": "2026-10-28", "requests": 10,
+   "licence": "© Copyright. Ministry of Justice and Constitutional Affairs (MoJCA). 2023. All Rights Reserved.",
+   "notes": "mojca.gov.ss serves an expired TLS certificate (curl: SEC_E_CERT_EXPIRED; 5 failed requests on 2026-10-28), so the list and every PDF were read from pinned Wayback id_ captures (timestamps in sources.json). The list holds about 80 laws as enacted; it is not consolidated and has no amendment acts."},
+  {"name": "WIPO Lex (World Intellectual Property Organization), South Sudan records SS013, SS018, SS019",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/21916", "retrieved": "2026-10-28", "requests": 13,
+   "licence": "WIPO Lex terms of use; only the records' dates and notes are used, not WIPO's texts",
+   "notes": "Dates of the Constitution (approved 7 July 2011, assented and in force 9 July 2011) and of the Amendment Act 2013 (assented 26 February 2013, commenced 1 March 2013). SS019 is a constituteproject.org print, not an official text: read only to reconcile which ministry copy is the enacted text."}
+ ],
+ "laws": {
+  "tcrss-2011": {"label": "Transitional Constitution 2011", "title": "The Transitional Constitution of the Republic of South Sudan, 2011", "kind": "law", "enacted": "2011-07-09", "published": null, "url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Transitional-Constitution-of-the-Republic-of-South-Sudan-2011.pdf", "temporary_until": null, "restores": null, "note": null},
+  "pca-2008": {"label": "Penal Code Act 2008", "title": "The Penal Code Act, 2008 (Act 9 of 2008)", "kind": "law", "enacted": "2008-08-22", "published": "2009-02-10", "url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Penal-Code-Act-9-of-2008.pdf", "temporary_until": null, "restores": null, "note": null},
+  "ccpa-2008": {"label": "Code of Criminal Procedure Act 2008", "title": "The Code of Criminal Procedure Act, 2008 (Act 5 of 2008)", "kind": "law", "enacted": "2008-03-20", "published": "2009-02-10", "url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Code-of-Criminal-Procedure-Act-5-of-2008.pdf", "temporary_until": null, "restores": null, "note": null}
+ },
+ "decisions": [
+  "Source: the Ministry of Justice and Constitutional Affairs' list 'Laws of the Republic of South Sudan'. mojca.gov.ss serves an expired TLS certificate, so the list and every PDF were read from Internet Archive id_ captures, pinned by timestamp in sources.json; the certificate check was not bypassed.",
+  "Phase 1 acts: the Transitional Constitution 2011, the Penal Code Act 2008 and the Code of Criminal Procedure Act 2008. The two codes were chosen because their gazette print (Acts Supplement No. 1 to the Southern Sudan Gazette No. 1 Vol. I, 10 February 2009) has a text layer and dates each act by a 'Signed on' margin note. The Labour Act 2017 was not built: its print ('Juba, 24th October 2017') does not say the President signed it that day, and it comes into force on signature.",
+  "Penal Code Act 2008: in force 22 August 2008, the day the President signed it (s. 1: 'shall come into force on the date of its signature by the President'; margin note 'Signed on 22nd August, 2008'). Published 10 February 2009.",
+  "Code of Criminal Procedure Act 2008: in force 20 March 2008 (s. 1: 'shall come into force as from the date of its signature by the President'; margin note 'Signed on 20th March, 2008'). Published 10 February 2009.",
+  "Each code is one version: the act as enacted. The ministry's list (latest capture 27 July 2026) offers no amending act and no consolidated text for either code, so the enacted text is the latest official expression available. An amendment that exists but is not on the list is not in this history.",
+  "Units are sections (sec-NNN) headed '# Section N — Title'. Chapter headings, the arrangement of sections, running heads, page numbers and the 'Signed on' margin notes are left out of the text; the enacting formula is the unit 'preamble'.",
+  "Paragraphs are rebuilt from the PDF line layout: a line holding only a marker ('(1)', '(a)') is joined to the text after it, and lines are joined across line and page breaks until a paragraph ends in . ; : or a dash. A hyphen at a line end is kept and the next word joined to it, since the print does not distinguish hyphenated words from broken ones.",
+  "Quotes are normalised to straight quotes; NBSP and runs of spaces become one space. No word of the law was changed."
+ ],
+ "decisions_constitution": [
+  "Constitution text: the ministry's 'LAWS OF SOUTH SUDAN' print (uploads/2023/03, 203 articles, PDF made 12 July 2011). The ministry's second copy under the same title (uploads/2023/04, 201 articles) is a Word file made on 24 April 2011 by sudantribune.com, before the Assembly approved the text on 7 July 2011; WIPO Lex SS013 is the same file. It was not used. The 203-article print agrees with the constituteproject.org text (WIPO Lex SS019) on its article numbering and Art. 100, which was read only to reconcile, never copied.",
+  "In force 9 July 2011 (Art. 198: 'shall come into force on July 9, 2011'); WIPO Lex SS013 records approval on 7 July 2011 and assent on 9 July 2011. The print's assent formula has its date left blank ('this ---- day of the month of ---- in the year 2011') and is kept as printed, as the unit 'assent'.",
+  "Units are articles (art-NNN) with the article title as the heading, the preamble with its enacting formula, Schedules (A) to (E) and the assent. Part and chapter headings and the arrangement of articles are left out.",
+  "Only the 2011 text is built. The Transitional Constitution of the Republic of South Sudan, 2011 (Amendment) Act, 2013 (assented 26 February 2013, commenced 1 March 2013, per WIPO Lex SS018) is published only as a scan with no text layer, and is left out (no OCR). The Labour Act 2017 cites the Constitution as '(Amended 2015)', so a 2015 amendment exists too; no official text of it was found. Later amendments are not on the ministry's list either.",
+  "So this act stops at its text as signed and is not published to main: today's text of the Constitution is not available from an official source with a text layer."
+ ],
+ "ai_use": [
+  "Claude Code with Claude Opus 5.5 (claude-opus-5-5) chose the sources and wrote fetch.py and parse.py. No model read, wrote or changed legal text: parse.py is deterministic code over the cached PDFs (PyMuPDF text layer). Research used 2 web searches; no text was taken from them."
+ ]
+}
