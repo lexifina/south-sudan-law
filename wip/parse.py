@@ -256,10 +256,11 @@ def main() -> None:
     report = {k: len(a["versions"][0]["units"]) for k, a in acts.items()}
     laws = meta["laws"]
     srcs = meta["sources"]
-    write(HERE / "corpus.d" / "10-constitution.json", {
+    out = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / "corpus.d"
+    write(out / "10-constitution.json", {
         "acts": [acts["constitution"]], "laws": {"tcrss-2011": laws["tcrss-2011"]},
         "decisions": meta["decisions_constitution"], "ai_use": meta["ai_use"], "sources": srcs})
-    write(HERE / "corpus.d" / "20-codes.json", {
+    write(out / "20-codes.json", {
         "country": meta["country"], "acts": [acts["penal-code"], acts["criminal-procedure"]],
         "laws": {k: laws[k] for k in ("pca-2008", "ccpa-2008")}, "applies": [],
         "decisions": meta["decisions"], "ai_use": meta["ai_use"], "sources": srcs})
