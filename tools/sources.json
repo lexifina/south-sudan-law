@@ -1,0 +1,73 @@
+{
+ "documents": [
+  {
+   "key": "mojca-laws-page",
+   "url": "https://web.archive.org/web/20260727084226id_/https://mojca.gov.ss/laws-of-the-republic-of-south-sudan/",
+   "original": "https://mojca.gov.ss/laws-of-the-republic-of-south-sudan/",
+   "capture": "20260727084226",
+   "what": "The ministry's list of the Laws of the Republic (about 80 links), latest capture"
+  },
+  {
+   "key": "mojca-uploads-cdx",
+   "url": "https://web.archive.org/cdx/search/cdx?url=mojca.gov.ss/wp-content/uploads/&matchType=prefix&output=json&fl=timestamp,original,statuscode,mimetype,length&filter=statuscode:200&collapse=urlkey",
+   "original": "https://mojca.gov.ss/wp-content/uploads/",
+   "what": "Wayback index of every archived file the ministry uploaded"
+  },
+  {
+   "key": "tcrss-2011",
+   "url": "https://web.archive.org/web/20240119123221id_/https://mojca.gov.ss/wp-content/uploads/2023/03/Transitional-Constitution-of-the-Republic-of-South-Sudan-2011.pdf",
+   "original": "https://mojca.gov.ss/wp-content/uploads/2023/03/Transitional-Constitution-of-the-Republic-of-South-Sudan-2011.pdf",
+   "capture": "20240119123221",
+   "what": "Transitional Constitution 2011, 'Laws of South Sudan' print (203 articles, PDF made 12 July 2011). Used."
+  },
+  {
+   "key": "tcrss-2011-draft",
+   "url": "https://web.archive.org/web/20240711210216id_/https://mojca.gov.ss/wp-content/uploads/2023/04/The-Transitional-Constitution-of-the-Repulic-of-South-Sudan.pdf",
+   "original": "https://mojca.gov.ss/wp-content/uploads/2023/04/The-Transitional-Constitution-of-the-Repulic-of-South-Sudan.pdf",
+   "capture": "20240711210216",
+   "what": "A second ministry copy titled the same (201 articles; a Word file made 24 April 2011 by sudantribune.com, before the Assembly passed the text). Not used."
+  },
+  {
+   "key": "pca-2008",
+   "url": "https://web.archive.org/web/20240606081842id_/https://mojca.gov.ss/wp-content/uploads/2023/03/Penal-Code-Act-9-of-2008.pdf",
+   "original": "https://mojca.gov.ss/wp-content/uploads/2023/03/Penal-Code-Act-9-of-2008.pdf",
+   "capture": "20240606081842",
+   "what": "Penal Code Act 2008, Acts Supplement No. 1 to the Southern Sudan Gazette No. 1 Vol. I of 10 February 2009. Used."
+  },
+  {
+   "key": "ccpa-2008",
+   "url": "https://web.archive.org/web/20240606150333id_/https://mojca.gov.ss/wp-content/uploads/2023/03/Code-of-Criminal-Procedure-Act-5-of-2008.pdf",
+   "original": "https://mojca.gov.ss/wp-content/uploads/2023/03/Code-of-Criminal-Procedure-Act-5-of-2008.pdf",
+   "capture": "20240606150333",
+   "what": "Code of Criminal Procedure Act 2008, Acts Supplement No. 1 to the Southern Sudan Gazette No. 1 Vol. I of 10 February 2009. Used."
+  },
+  {
+   "key": "labour-2017",
+   "url": "https://web.archive.org/web/20240606074438id_/https://mojca.gov.ss/wp-content/uploads/2023/03/Labour-Act-2017.pdf",
+   "original": "https://mojca.gov.ss/wp-content/uploads/2023/03/Labour-Act-2017.pdf",
+   "capture": "20240606074438",
+   "what": "Labour Act 2017 (Act No. 64). Read for its enacting formula, which cites the Transitional Constitution '(Amended 2015)'. Not built: the print gives no signature date."
+  },
+  {
+   "key": "companies-2012",
+   "url": "https://web.archive.org/web/20240606145325id_/https://mojca.gov.ss/wp-content/uploads/2023/03/Companies-Act-2012.pdf",
+   "original": "https://mojca.gov.ss/wp-content/uploads/2023/03/Companies-Act-2012.pdf",
+   "capture": "20240606145325",
+   "what": "Companies Act 2012. Probed; not built yet."
+  },
+  {
+   "key": "wipo-ss013",
+   "url": "https://www.wipo.int/wipolex/edocs/lexdocs/laws/en/ss/ss013en_1.pdf",
+   "details": "https://www.wipo.int/wipolex/en/legislation/details/11412",
+   "original": "https://www.wipo.int/wipolex/en/legislation/details/11412",
+   "what": "WIPO Lex SS013: its record dates the Constitution (approved 7 July 2011, assented and in force 9 July 2011); its PDF is the same April 2011 Sudan Tribune file as tcrss-2011-draft. Dates used; text not used."
+  },
+  {
+   "key": "wipo-ss018",
+   "url": "https://www.wipo.int/wipolex/edocs/lexdocs/laws/en/ss/ss018en.pdf",
+   "details": "https://www.wipo.int/wipolex/en/legislation/details/14498",
+   "original": "https://www.wipo.int/wipolex/en/legislation/details/14498",
+   "what": "WIPO Lex SS018: The Transitional Constitution of the Republic of South Sudan, 2011 (Amendment) Act, 2013 (assented 26 February 2013, commenced 1 March 2013). The PDF is a scan with no text layer: not used (no OCR)."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "country": "SS",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "TCRSS",
+   "title": "The Transitional Constitution of the Republic of South Sudan, 2011",
+   "url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Transitional-Constitution-of-the-Republic-of-South-Sudan-2011.pdf",
+   "versions": [
+    {
+     "from": "2011-07-09",
+     "units": 210,
+     "source_url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Transitional-Constitution-of-the-Republic-of-South-Sudan-2011.pdf",
+     "sha256": "ba02857bf993f6605228d622d4fbf68b76e1138b7bf1de5ce23c7851371d9475"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "PCA 2008",
+   "title": "The Penal Code Act, 2008 (Act 9 of 2008)",
+   "url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Penal-Code-Act-9-of-2008.pdf",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 393,
+     "source_url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Penal-Code-Act-9-of-2008.pdf",
+     "sha256": "cad53b51a3cd16ebc677bad658626fabf5e9d13247f3c06e2f52680cd8c1d817"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure",
+   "short": "CCPA 2008",
+   "title": "The Code of Criminal Procedure Act, 2008 (Act 5 of 2008)",
+   "url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Code-of-Criminal-Procedure-Act-5-of-2008.pdf",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 308,
+     "source_url": "https://mojca.gov.ss/wp-content/uploads/2023/03/Code-of-Criminal-Procedure-Act-5-of-2008.pdf",
+     "sha256": "ea65d6050863a11a1bd2bc2d68ba8619638bc8675b1196ebae2341b496cbd977"
+    }
+   ]
+  }
+ ]
+}
