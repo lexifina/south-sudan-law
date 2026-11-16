@@ -57,6 +57,7 @@ There are no amending acts here, so each act is one commit credited to the act i
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus the history was built from; every commit's trailers must parse, and there are no merge commits, no commit dates that go backwards and none in the future.
 - Each version records the sha256 of the ministry PDF it was read from ([`data/versions.json`](data/versions.json)); `tools/build.py` gives the same commit hashes from the same corpus.
 - [`REPRODUCE.md`](REPRODUCE.md) does not yet record a run of the check or a second build.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -78,6 +79,10 @@ There are no amending acts here, so each act is one commit credited to the act i
 See [`LICENSE`](LICENSE). The texts are laws of the Republic of South Sudan as the ministry publishes them, copied unaltered apart from layout and attributed to it; the ministry's rights notice ("All Rights Reserved") is recorded in `LICENSE` in full. The arrangement of the history, the commit messages and the tools are Lexifina's, under CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
